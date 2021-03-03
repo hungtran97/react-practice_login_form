@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-practice_login-form/static/css/main.77b6cb16.chunk.css",
+    "main.js": "/react-practice_login-form/static/js/main.2a63256d.chunk.js",
+    "main.js.map": "/react-practice_login-form/static/js/main.2a63256d.chunk.js.map",
+    "runtime-main.js": "/react-practice_login-form/static/js/runtime-main.b8c8472a.js",
+    "runtime-main.js.map": "/react-practice_login-form/static/js/runtime-main.b8c8472a.js.map",
+    "static/js/2.f1caedb5.chunk.js": "/react-practice_login-form/static/js/2.f1caedb5.chunk.js",
+    "static/js/2.f1caedb5.chunk.js.map": "/react-practice_login-form/static/js/2.f1caedb5.chunk.js.map",
+    "static/js/3.a9f33e83.chunk.js": "/react-practice_login-form/static/js/3.a9f33e83.chunk.js",
+    "static/js/3.a9f33e83.chunk.js.map": "/react-practice_login-form/static/js/3.a9f33e83.chunk.js.map",
+    "index.html": "/react-practice_login-form/index.html",
+    "static/css/main.77b6cb16.chunk.css.map": "/react-practice_login-form/static/css/main.77b6cb16.chunk.css.map",
+    "static/js/2.f1caedb5.chunk.js.LICENSE.txt": "/react-practice_login-form/static/js/2.f1caedb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c8472a.js",
+    "static/js/2.f1caedb5.chunk.js",
+    "static/css/main.77b6cb16.chunk.css",
+    "static/js/main.2a63256d.chunk.js"
+  ]
+}
